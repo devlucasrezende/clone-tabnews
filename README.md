@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Aqui a programação se tornará paixão
+Projeto de clone-tabnews do curso.dev
